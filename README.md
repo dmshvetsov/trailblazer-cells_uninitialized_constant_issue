@@ -2,11 +2,11 @@
 
 In development when trying to render some cells (Blog::Post::Cell::Item, User::Cell::Show)
 
-got
+I got:
 
 `uninitialized constant Cell::Show`
 
-full trace
+Full trace:
 
 ```
 app/controllers/users_controller.rb:4:in `show'
